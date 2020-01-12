@@ -1,0 +1,17 @@
+[
+    {"pat_id":"p1",
+        "name":"patient",
+        "password":"123"
+
+    },
+    {"pat_id":"p2",
+        "name":"Ashraf",
+        "password":"123"
+
+    },
+    {"pat_id":"p3",
+        "name":"Rahul",
+        "password":"123"
+
+    }
+]
