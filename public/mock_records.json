@@ -1,0 +1,15 @@
+[{"doc_id":"d1",
+    "name":"doctor",
+    "speciality":"bones"
+},
+
+{"doc_id":"d2",
+    "name":"Ashraf",
+    "speciality":"physician"
+},
+
+{"doc_id":"d3",
+    "name":"Rahul",
+    "speciality":"ENT"
+}
+]

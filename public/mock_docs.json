@@ -1,0 +1,17 @@
+[
+    {"doc_id":"d1",
+        "name":"doctor",
+        "password":"123"
+
+    },
+    {"doc_id":"d2",
+        "name":"Ashraf",
+        "password":"123"
+
+    },
+    {"doc_id":"d3",
+        "name":"Rahul",
+        "password":"123"
+
+    }
+]

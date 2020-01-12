@@ -1,0 +1,17 @@
+[
+    {"adm_id":"d1",
+        "name":"admin",
+        "password":"123"
+
+    },
+    {"adm_id":"d2",
+        "name":"Ashraf",
+        "password":"123"
+
+    },
+    {"adm_id":"d3",
+        "name":"Rahul",
+        "password":"123"
+
+    }
+]
